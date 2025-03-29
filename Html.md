@@ -1,54 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
+    <head>
     <!--author: Johan Pablo-->
-    <title>Personalized Account</title>
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .header {
-            background-image: url('');
-            height: 300px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-        }
-        .header h1 {
-            color: white;
-            font-size: 36px;
-            text-align: center;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-        }
-        .container {
-            padding: 20px;
-        }
-        .image-grid {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
-        .image-item {
-            width: 48%;
-            margin-bottom: 20px;
-        }
-        .image-item img {
-            width: 100%;
-            height: 200px;
-            border-radius: 8px;
-        }
-        .caption {
-            text-align: center;
-            margin-top: 8px;
-            font-weight: 700;
-        }
-    </style>
-</head>
-<body>
-
+    
     <div class="header">
         <h1>Personalized Account</h1>
     </div>
