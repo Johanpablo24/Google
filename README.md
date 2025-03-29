@@ -2,7 +2,6 @@
 <html>
 <head>
     <!--author: Johan Pablo-->
-    <title>Personalized Account</title>
 </head>
 <body>
 
